@@ -27,7 +27,7 @@ ul{
 }
 
 .dark{
-  padding:15px;
+  padding:40px;
   background:#35424a;
   color: #e6e6e6;
   margin-top:10px;
@@ -175,19 +175,22 @@ footer{
 }
 
 /* Media Queries */
-/*@media(max-width: 768px){
+@media(max-width: 800px){
   header #branding,
   header nav,
   header nav li,
+  iframe,
   #newsletter h1,
   #newsletter form,
   #boxes .box,
+  #showcase h1,
+  #showcase p,
   article#main-col,
   aside#sidebar{
     float:none;
     text-align:center;
     width:100%;
-  } */
+  } 
 
   header{
     padding-bottom:20px;
