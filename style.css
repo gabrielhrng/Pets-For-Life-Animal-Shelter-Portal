@@ -25,7 +25,15 @@ ul{
   padding-right:20px;
   color:#ffffff;
 }
-
+.button_2{
+  width: 38px;
+  height:38px;
+  background:orange;
+  padding-bottom: 0%;
+  border-radius: 50%;
+  
+  overflow:hidden;
+}
 .dark{
   padding:40px;
   background:#35424a;
